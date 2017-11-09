@@ -11,7 +11,7 @@ p{
 }
 /*nav styles*/
 nav ul {
-  text-decoration-color:rgb(93, 20, 46);
+  text-decoration-color:rgb(226, 229, 247);
   list-style-type: none;
 }
 nav ul a {
@@ -27,4 +27,3 @@ nav ul a:link, nav ul a:visited {
 /*list styles*/
 
 /*sections styles*/
-  
