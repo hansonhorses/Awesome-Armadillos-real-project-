@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 main styles
-body{
-  background-color:rgb(58, 18, 45);
+body {
+  background-color: rgb(58, 18, 45);
 }
 p{
   font-size: 2em;
