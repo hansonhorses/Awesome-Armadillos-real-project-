@@ -7,7 +7,7 @@ body {
 p{
   font-size: 2em;
   text-align: center;
-  text-decoration-color:rgb(220, 223, 247);
+
 }
 /*nav styles*/
 nav ul {
@@ -27,3 +27,4 @@ nav ul a:link, nav ul a:visited {
 /*list styles*/
 
 /*sections styles*/
+  text-decoration-color:rgb(220, 223, 247);
