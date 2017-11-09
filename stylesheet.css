@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+main styles
+body{
+  background-color: rgb(58, 18, 45);
+}
+p{
+  font-size: 2em;
+  text-align: center;
+  text-decoration-color: rgb(220, 223, 247);
+}
+nav styles
+nav ul {
+  text-decoration-color: rgb(93, 20, 46);
+  list-style-type: none;
+}
+nav ul a {
+  text-decoration: none;
+}
+nav ul li{
+
+}
+nav ul a:link, nav ul a:visited {
+  color:rgb(245, 225, 124);
+}
+
+/*list styles*/
+
+/*sections styles*/
